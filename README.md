@@ -38,7 +38,7 @@ python3 -m spacy download ru_core_news_sm
 python3 -m ipykernel install --user --name=env
 ```
 
-5. Наконец, запустите jupyter notebook, где виртуальную среду можно будет выбрать в правом верхнем углу, открыв файл sentiment.ipynb.
+5. Наконец, запустите jupyter notebook, где виртуальное окружение можно будет выбрать в правом верхнем углу, открыв файл sentiment.ipynb.
 ```
 jupyter notebook
 ```
